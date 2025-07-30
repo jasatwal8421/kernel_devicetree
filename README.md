@@ -14,3 +14,4 @@ Devices compatibles:
 |![motorola](https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g9-power-2021.jpg)|Moto G Power 2021|borneo|QZB30.Q4-43-92-2|Snapdragon 662|2GHz|64 Bit|Adreno 610|3/4GB|32/64|5000mAh|720x1600|20:9|January, 2021|
 |![motorola](https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g30.jpg)|Moto G³⁰ |caprip|RRC31.Q1-3-34-1|Snapdragon 662|2GHz|64 Bit|Adreno 610|4GB|128GB|5000mAh|720x1600|20:9|February, 2021|
 
+
